@@ -43,4 +43,3 @@ src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-muhtarif&show_icons=true&locale=en" alt="adam-muhtarif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-muhtarif&" alt="adam-muhtarif" /></p>
-

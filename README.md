@@ -28,18 +28,18 @@ src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer"> <img src="[https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/862px-React-icon.svg.png)" alt="reactjs" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactjs" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgjfXhLFiTbASWw6Wz6o3ySlPhHPJdWis8A&s" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8kxkUW0hXJ5PzGb1XJQAS7GK0frdLjifMg&s" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="[https://studio3t.com/wp-content/uploads/2020/09/introduction-to-mongodb-1024x278.png](https://icon2.cleanpng.com/20181115/ve/kisspng-mongodb-inc-logo-table-attribute-1713921815918.webp)" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/115/190/png-transparent-mongodb-original-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" alt="docker" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="expressjs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="[[https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1200px-NestJS-logo-wordmark.svg.png)](https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg)" alt="nestjs" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://spng.pinpng.com/pngs/s/208-2082662_logo-nestjs-nest-js-hd-png-download.png" alt="nestjs" width="40" height="40"/>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/704/597/png-transparent-computer-icons-command-line-interface-linux-system-console-command-line-icon-miscellaneous-text-rectangle-thumbnail.png" alt="commandLine" width="40" height="40"/></a> 
 </p>

@@ -29,7 +29,7 @@ src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactjs" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="[https://www.svgrepo.com/show/354113/nextjs-icon.svg](https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png)" alt="nextjs" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/906/753/png-transparent-nextjs-illustration-thumbnail.png" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgjfXhLFiTbASWw6Wz6o3ySlPhHPJdWis8A&s" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

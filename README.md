@@ -1,100 +1,98 @@
-<h1 align="center">👋 Hi, I'm Adam Abdulkarim</h1>
+<h1 align="center">Hi 👋, I'm Adam Abdulkarim Adam</h1>
 
 <h3 align="center">
-Full-Stack Developer • System Builder • Automation Enthusiast
+Full-Stack Developer | Building scalable web platforms & SaaS systems
 </h3>
 
-<p align="center">
-Building scalable web applications, developer tools, and modern SaaS systems.
+<img align="right" alt="Coding" width="420"
+src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=adam-muhtarif&label=Profile%20views&color=0e75b6&style=flat" alt="adam-muhtarif"/>
 </p>
 
-<img align="right" alt="coding" width="380"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
----
-
-### 🚀 About Me
-
-- 💻 Full-stack developer focused on **scalable web systems**
-- ⚙️ Strong experience designing **CMS architectures and SaaS platforms**
-- 🧠 Passionate about **clean architecture, performance, and security**
-- 🧪 Learning and applying **modern testing workflows**
-- 📱 Currently expanding into **Flutter for cross-platform development**
-- 🤖 Interested in **automation, AI workflows, and developer productivity**
-
----
-
-### 🧠 Tech I Work With
-
-#### Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-</p>
-
-#### Backend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40"/>
-</p>
-
-#### Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-#### DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=adam-muhtarif&theme=algolia&margin-w=10&no-frame=true"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 About Me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adam-muhtarif&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-muhtarif&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adam-muhtarif&theme=tokyonight"/>
-</p>
+- 💻 Full-Stack developer focused on **scalable web platforms**
+- ⚙️ Building **CMS architectures, dashboards, and SaaS applications**
+- 🧠 Interested in **clean architecture, performance, and security**
+- 🧪 Working with **testing workflows and automation**
+- 📱 Currently learning **Flutter**
+- 🤖 Exploring **AI tools and developer automation**
 
 ---
 
-### 🌍 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://twitter.com/Adam_Samakab">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+<a href="https://github.com/adam-muhtarif">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/adam-a-531462248">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<a href="https://twitter.com/Adam_Samakab">
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
 </a>
 
 </p>
 
 ---
 
-### ⚡ Developer Focus
+# 🧠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel"/>
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman"/>
+</p>
+
+### Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=adam-muhtarif&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Developer Focus
+
+```
+Full-Stack Engineering
+SaaS Platforms
+CMS Architecture
+Automation
+DevOps
+Testing & Reliability
+Clean Code
+```
